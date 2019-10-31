@@ -1,6 +1,6 @@
 # btre_project
 Packt course
-Python Django Dev To Deployment
+"Python Django Dev To Deployment"
 by Brad Traversy
 
 Very interesting, "like in reality", Django development study course.
